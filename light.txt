@@ -1,0 +1,20 @@
+light_id: 1
+requested_status: on
+status: off
+
+light_id: 2
+requested_status: off
+status: off
+
+light_id: 3
+requested_status: off
+status: off
+
+light_id: 4
+requested_status: off
+status: off
+
+light_id: 5
+requested_status: off
+status: off
+
