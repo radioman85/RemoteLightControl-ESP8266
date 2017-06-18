@@ -15,4 +15,6 @@ status: off
 
 ... and so on
 
-With light_interface.py this file is read and 
+With light_interface.py this file is read and the corresponding lights are turned on or off depending on the request_status in the txt-file. To turn the light on or off only the "request_status: " has to be changed and safed while the python script is on going reading it and acting according to the content.
+
+Currently it is sending the a wifi request to the same light-node. So it is nothing special here at the time!
